@@ -13,6 +13,10 @@
 ## 🔸실행 파일
 **practice.ipynb**
 
+## 🔸Training/Validation Loss
+<img width="548" height="249" alt="image" src="https://github.com/user-attachments/assets/aaa8c7ad-f45e-4bf7-a248-4bc4f0b4b444" />
+
+
 ## 🔸실행 결과
 <img width="418" height="675" alt="image" src="https://github.com/user-attachments/assets/7ab9334e-2e8e-439b-8e55-56e879448513" />
 <img width="427" height="469" alt="image" src="https://github.com/user-attachments/assets/04ee3402-3b75-479e-b66e-5299541c1b4b" />
