@@ -1,6 +1,7 @@
 # 🎃HF PL을 이용한 <비꼼 뉘앙스 탐지 분류> 모델 만들기
 
 ## 🔸사용한 데이터셋
+- sarcasm_data.csv
 - 직접 생성한 데이터셋
 - text와 label(비꼼:1, 진심:0)로 이루어진 csv파일
 <img width="556" height="246" alt="image" src="https://github.com/user-attachments/assets/6476384e-06dc-45e5-a09d-7f149a3355af" />
