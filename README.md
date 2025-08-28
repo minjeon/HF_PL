@@ -14,9 +14,6 @@
 **practice.ipynb**
 
 ## 🔸실행 결과
-<img width="491" height="560" alt="image" src="https://github.com/user-attachments/assets/b26baaed-9331-4d6c-bc15-4ed8f437cd5f" />
-<img width="489" height="208" alt="image" src="https://github.com/user-attachments/assets/b70f4be5-cc43-496f-8add-df545ed103b2" />
-
 <img width="418" height="675" alt="image" src="https://github.com/user-attachments/assets/7ab9334e-2e8e-439b-8e55-56e879448513" />
 <img width="427" height="469" alt="image" src="https://github.com/user-attachments/assets/04ee3402-3b75-479e-b66e-5299541c1b4b" />
 
